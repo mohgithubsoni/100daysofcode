@@ -118,4 +118,12 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohgithubsoni/100daysofcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
