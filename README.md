@@ -96,6 +96,7 @@ By completing this challenge, I aim to:
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/mohgithubsoni/100daysofcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Stack
 |  |
@@ -113,4 +114,8 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/mohgithubsoni/100daysofcode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
