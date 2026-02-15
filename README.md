@@ -91,6 +91,7 @@ By completing this challenge, I aim to:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohgithubsoni/100daysofcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0032-longest-valid-parentheses) |
+| [0214-shortest-palindrome](https://github.com/mohgithubsoni/100daysofcode/tree/master/0214-shortest-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,4 +134,16 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0001-two-sum) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/mohgithubsoni/100daysofcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/mohgithubsoni/100daysofcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/mohgithubsoni/100daysofcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
