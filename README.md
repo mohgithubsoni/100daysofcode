@@ -117,14 +117,17 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Recursion
 |  |
 | ------- |
