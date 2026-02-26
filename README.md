@@ -123,6 +123,7 @@ By completing this challenge, I aim to:
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -154,11 +155,13 @@ By completing this challenge, I aim to:
 | [0001-two-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mohgithubsoni/100daysofcode/tree/master/0027-remove-element) |
+| [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/mohgithubsoni/100daysofcode/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -184,4 +187,8 @@ By completing this challenge, I aim to:
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mohgithubsoni/100daysofcode/tree/master/0007-reverse-integer) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
