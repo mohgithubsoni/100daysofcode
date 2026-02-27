@@ -155,6 +155,7 @@ By completing this challenge, I aim to:
 | [0001-two-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mohgithubsoni/100daysofcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -191,4 +192,8 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
