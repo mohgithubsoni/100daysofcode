@@ -125,6 +125,7 @@ By completing this challenge, I aim to:
 | [0155-min-stack](https://github.com/mohgithubsoni/100daysofcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -159,6 +160,7 @@ By completing this challenge, I aim to:
 | [0033-search-in-rotated-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/mohgithubsoni/100daysofcode/tree/master/0046-permutations) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +196,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
