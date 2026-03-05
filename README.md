@@ -98,6 +98,7 @@ By completing this challenge, I aim to:
 | [0014-longest-common-prefix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0032-longest-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/mohgithubsoni/100daysofcode/tree/master/0214-shortest-palindrome) |
+| [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +125,7 @@ By completing this challenge, I aim to:
 | [0143-reorder-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/mohgithubsoni/100daysofcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0503-next-greater-element-ii) |
 ## Tree
@@ -195,6 +197,7 @@ By completing this challenge, I aim to:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
@@ -209,4 +212,8 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0046-permutations](https://github.com/mohgithubsoni/100daysofcode/tree/master/0046-permutations) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
