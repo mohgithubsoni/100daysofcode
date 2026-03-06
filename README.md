@@ -89,6 +89,7 @@ By completing this challenge, I aim to:
 | [0086-partition-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/mohgithubsoni/100daysofcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -114,6 +115,7 @@ By completing this challenge, I aim to:
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/mohgithubsoni/100daysofcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0876-middle-of-the-linked-list) |
@@ -216,4 +218,16 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
