@@ -100,6 +100,7 @@ By completing this challenge, I aim to:
 | [0032-longest-valid-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0032-longest-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/mohgithubsoni/100daysofcode/tree/master/0214-shortest-palindrome) |
 | [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
+| [0451-sort-characters-by-frequency](https://github.com/mohgithubsoni/100daysofcode/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +171,7 @@ By completing this challenge, I aim to:
 | ------- |
 | [0001-two-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/mohgithubsoni/100daysofcode/tree/master/0141-linked-list-cycle) |
+| [0451-sort-characters-by-frequency](https://github.com/mohgithubsoni/100daysofcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 ## Rolling Hash
 |  |
@@ -226,8 +228,21 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0148-sort-list) |
+| [0451-sort-characters-by-frequency](https://github.com/mohgithubsoni/100daysofcode/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mohgithubsoni/100daysofcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mohgithubsoni/100daysofcode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/mohgithubsoni/100daysofcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
