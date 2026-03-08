@@ -97,6 +97,7 @@ By completing this challenge, I aim to:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohgithubsoni/100daysofcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0032-longest-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/mohgithubsoni/100daysofcode/tree/master/0214-shortest-palindrome) |
 | [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
@@ -105,6 +106,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohgithubsoni/100daysofcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0032-longest-valid-parentheses) |
 ## Linked List
 |  |
@@ -215,6 +217,7 @@ By completing this challenge, I aim to:
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mohgithubsoni/100daysofcode/tree/master/0046-permutations) |
 ## Greedy
 |  |
