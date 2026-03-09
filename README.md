@@ -165,6 +165,7 @@ By completing this challenge, I aim to:
 | [0014-longest-common-prefix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mohgithubsoni/100daysofcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/mohgithubsoni/100daysofcode/tree/master/0046-permutations) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0503-next-greater-element-ii) |
@@ -218,6 +219,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/mohgithubsoni/100daysofcode/tree/master/0046-permutations) |
 ## Greedy
 |  |
