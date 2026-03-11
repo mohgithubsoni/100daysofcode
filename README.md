@@ -96,6 +96,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohgithubsoni/100daysofcode/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/mohgithubsoni/100daysofcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0032-longest-valid-parentheses) |
@@ -173,6 +174,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/mohgithubsoni/100daysofcode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/mohgithubsoni/100daysofcode/tree/master/0141-linked-list-cycle) |
 | [0451-sort-characters-by-frequency](https://github.com/mohgithubsoni/100daysofcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
@@ -201,6 +203,7 @@ By completing this challenge, I aim to:
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mohgithubsoni/100daysofcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/mohgithubsoni/100daysofcode/tree/master/0012-integer-to-roman) |
 ## Monotonic Stack
 |  |
 | ------- |
