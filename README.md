@@ -87,6 +87,7 @@ By completing this challenge, I aim to:
 | [0005-longest-palindromic-substring](https://github.com/mohgithubsoni/100daysofcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/mohgithubsoni/100daysofcode/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mohgithubsoni/100daysofcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0148-sort-list) |
@@ -170,6 +171,7 @@ By completing this challenge, I aim to:
 | [0039-combination-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/mohgithubsoni/100daysofcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -240,6 +242,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/mohgithubsoni/100daysofcode/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
