@@ -97,6 +97,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohgithubsoni/100daysofcode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/mohgithubsoni/100daysofcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/mohgithubsoni/100daysofcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0022-generate-parentheses) |
