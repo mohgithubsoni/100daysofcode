@@ -86,6 +86,7 @@ By completing this challenge, I aim to:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohgithubsoni/100daysofcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/mohgithubsoni/100daysofcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/mohgithubsoni/100daysofcode/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mohgithubsoni/100daysofcode/tree/master/0141-linked-list-cycle) |
@@ -167,6 +168,7 @@ By completing this challenge, I aim to:
 | [0001-two-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mohgithubsoni/100daysofcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/mohgithubsoni/100daysofcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohgithubsoni/100daysofcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0039-combination-sum) |
