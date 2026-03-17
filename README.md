@@ -86,6 +86,7 @@ By completing this challenge, I aim to:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohgithubsoni/100daysofcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/mohgithubsoni/100daysofcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohgithubsoni/100daysofcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mohgithubsoni/100daysofcode/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0088-merge-sorted-array) |
@@ -102,6 +103,7 @@ By completing this challenge, I aim to:
 | [0012-integer-to-roman](https://github.com/mohgithubsoni/100daysofcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohgithubsoni/100daysofcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0032-longest-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/mohgithubsoni/100daysofcode/tree/master/0214-shortest-palindrome) |
 | [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
@@ -192,6 +194,7 @@ By completing this challenge, I aim to:
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohgithubsoni/100daysofcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/mohgithubsoni/100daysofcode/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
