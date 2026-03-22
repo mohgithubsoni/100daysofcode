@@ -171,6 +171,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohgithubsoni/100daysofcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mohgithubsoni/100daysofcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mohgithubsoni/100daysofcode/tree/master/0031-next-permutation) |
@@ -229,6 +230,7 @@ By completing this challenge, I aim to:
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohgithubsoni/100daysofcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohgithubsoni/100daysofcode/tree/master/0035-search-insert-position) |
 ## Design
@@ -250,6 +252,7 @@ By completing this challenge, I aim to:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohgithubsoni/100daysofcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0148-sort-list) |
 ## Sorting
 |  |
