@@ -108,6 +108,7 @@ By completing this challenge, I aim to:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohgithubsoni/100daysofcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/mohgithubsoni/100daysofcode/tree/master/0038-count-and-say) |
+| [0065-valid-number](https://github.com/mohgithubsoni/100daysofcode/tree/master/0065-valid-number) |
 | [0214-shortest-palindrome](https://github.com/mohgithubsoni/100daysofcode/tree/master/0214-shortest-palindrome) |
 | [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/mohgithubsoni/100daysofcode/tree/master/0451-sort-characters-by-frequency) |
