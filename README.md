@@ -118,6 +118,7 @@ By completing this challenge, I aim to:
 | [0005-longest-palindromic-substring](https://github.com/mohgithubsoni/100daysofcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/mohgithubsoni/100daysofcode/tree/master/0062-unique-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -222,6 +223,7 @@ By completing this challenge, I aim to:
 | [0002-add-two-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mohgithubsoni/100daysofcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/mohgithubsoni/100daysofcode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/mohgithubsoni/100daysofcode/tree/master/0062-unique-paths) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -283,4 +285,8 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/mohgithubsoni/100daysofcode/tree/master/3643-flip-square-submatrix-vertically) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mohgithubsoni/100daysofcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
