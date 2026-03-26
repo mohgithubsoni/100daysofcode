@@ -85,6 +85,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohgithubsoni/100daysofcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mohgithubsoni/100daysofcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohgithubsoni/100daysofcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mohgithubsoni/100daysofcode/tree/master/0031-next-permutation) |
@@ -175,6 +176,7 @@ By completing this challenge, I aim to:
 | [0001-two-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohgithubsoni/100daysofcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mohgithubsoni/100daysofcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mohgithubsoni/100daysofcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -260,6 +262,7 @@ By completing this challenge, I aim to:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/mohgithubsoni/100daysofcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0088-merge-sorted-array) |
