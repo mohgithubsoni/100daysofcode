@@ -104,6 +104,7 @@ By completing this challenge, I aim to:
 | [0006-zigzag-conversion](https://github.com/mohgithubsoni/100daysofcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/mohgithubsoni/100daysofcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/mohgithubsoni/100daysofcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/mohgithubsoni/100daysofcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohgithubsoni/100daysofcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -195,6 +196,7 @@ By completing this challenge, I aim to:
 | ------- |
 | [0001-two-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/mohgithubsoni/100daysofcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/mohgithubsoni/100daysofcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/mohgithubsoni/100daysofcode/tree/master/0141-linked-list-cycle) |
 | [0451-sort-characters-by-frequency](https://github.com/mohgithubsoni/100daysofcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
@@ -225,6 +227,7 @@ By completing this challenge, I aim to:
 | [0002-add-two-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mohgithubsoni/100daysofcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/mohgithubsoni/100daysofcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/mohgithubsoni/100daysofcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/mohgithubsoni/100daysofcode/tree/master/0062-unique-paths) |
 ## Monotonic Stack
 |  |
