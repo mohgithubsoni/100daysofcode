@@ -120,6 +120,7 @@ By completing this challenge, I aim to:
 | [0005-longest-palindromic-substring](https://github.com/mohgithubsoni/100daysofcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/mohgithubsoni/100daysofcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/mohgithubsoni/100daysofcode/tree/master/0062-unique-paths) |
 ## Linked List
 |  |
@@ -186,6 +187,7 @@ By completing this challenge, I aim to:
 | [0040-combination-sum-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mohgithubsoni/100daysofcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/mohgithubsoni/100daysofcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/mohgithubsoni/100daysofcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
@@ -261,6 +263,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohgithubsoni/100daysofcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/mohgithubsoni/100daysofcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0148-sort-list) |
 ## Sorting
 |  |
