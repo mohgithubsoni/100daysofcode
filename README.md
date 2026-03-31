@@ -124,6 +124,7 @@ By completing this challenge, I aim to:
 | [0022-generate-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/mohgithubsoni/100daysofcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mohgithubsoni/100daysofcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mohgithubsoni/100daysofcode/tree/master/0062-unique-paths) |
 ## Linked List
 |  |
@@ -196,6 +197,7 @@ By completing this challenge, I aim to:
 | [0046-permutations](https://github.com/mohgithubsoni/100daysofcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/mohgithubsoni/100daysofcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mohgithubsoni/100daysofcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mohgithubsoni/100daysofcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
@@ -268,6 +270,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohgithubsoni/100daysofcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/mohgithubsoni/100daysofcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
 ## Divide and Conquer
 |  |
