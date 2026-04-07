@@ -112,6 +112,7 @@ By completing this challenge, I aim to:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohgithubsoni/100daysofcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/mohgithubsoni/100daysofcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/mohgithubsoni/100daysofcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/mohgithubsoni/100daysofcode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/mohgithubsoni/100daysofcode/tree/master/0071-simplify-path) |
 | [0214-shortest-palindrome](https://github.com/mohgithubsoni/100daysofcode/tree/master/0214-shortest-palindrome) |
@@ -197,6 +198,7 @@ By completing this challenge, I aim to:
 | [0040-combination-sum-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mohgithubsoni/100daysofcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/mohgithubsoni/100daysofcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mohgithubsoni/100daysofcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mohgithubsoni/100daysofcode/tree/master/0055-jump-game) |
@@ -214,6 +216,7 @@ By completing this challenge, I aim to:
 | [0001-two-sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/mohgithubsoni/100daysofcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mohgithubsoni/100daysofcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/mohgithubsoni/100daysofcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/mohgithubsoni/100daysofcode/tree/master/0141-linked-list-cycle) |
 | [0451-sort-characters-by-frequency](https://github.com/mohgithubsoni/100daysofcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
@@ -291,6 +294,7 @@ By completing this challenge, I aim to:
 | [0015-3sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mohgithubsoni/100daysofcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/mohgithubsoni/100daysofcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mohgithubsoni/100daysofcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0148-sort-list) |
