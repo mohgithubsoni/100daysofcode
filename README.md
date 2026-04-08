@@ -116,6 +116,7 @@ By completing this challenge, I aim to:
 | [0065-valid-number](https://github.com/mohgithubsoni/100daysofcode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/mohgithubsoni/100daysofcode/tree/master/0071-simplify-path) |
 | [0214-shortest-palindrome](https://github.com/mohgithubsoni/100daysofcode/tree/master/0214-shortest-palindrome) |
+| [0316-remove-duplicate-letters](https://github.com/mohgithubsoni/100daysofcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/mohgithubsoni/100daysofcode/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
@@ -152,6 +153,7 @@ By completing this challenge, I aim to:
 | [0143-reorder-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/mohgithubsoni/100daysofcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0234-palindrome-linked-list) |
+| [0316-remove-duplicate-letters](https://github.com/mohgithubsoni/100daysofcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0503-next-greater-element-ii) |
@@ -253,6 +255,7 @@ By completing this challenge, I aim to:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/mohgithubsoni/100daysofcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0503-next-greater-element-ii) |
@@ -281,6 +284,7 @@ By completing this challenge, I aim to:
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohgithubsoni/100daysofcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/mohgithubsoni/100daysofcode/tree/master/0055-jump-game) |
+| [0316-remove-duplicate-letters](https://github.com/mohgithubsoni/100daysofcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
 ## Divide and Conquer
 |  |
