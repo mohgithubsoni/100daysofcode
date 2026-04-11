@@ -212,6 +212,7 @@ By completing this challenge, I aim to:
 | [0503-next-greater-element-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0503-next-greater-element-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mohgithubsoni/100daysofcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mohgithubsoni/100daysofcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +223,7 @@ By completing this challenge, I aim to:
 | [0141-linked-list-cycle](https://github.com/mohgithubsoni/100daysofcode/tree/master/0141-linked-list-cycle) |
 | [0451-sort-characters-by-frequency](https://github.com/mohgithubsoni/100daysofcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Rolling Hash
 |  |
 | ------- |
