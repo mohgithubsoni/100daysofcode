@@ -92,6 +92,7 @@ By completing this challenge, I aim to:
 | [0027-remove-element](https://github.com/mohgithubsoni/100daysofcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohgithubsoni/100daysofcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mohgithubsoni/100daysofcode/tree/master/0031-next-permutation) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mohgithubsoni/100daysofcode/tree/master/0141-linked-list-cycle) |
@@ -135,6 +136,7 @@ By completing this challenge, I aim to:
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohgithubsoni/100daysofcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0092-reverse-linked-list-ii) |
