@@ -117,6 +117,7 @@ By completing this challenge, I aim to:
 | [0049-group-anagrams](https://github.com/mohgithubsoni/100daysofcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/mohgithubsoni/100daysofcode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/mohgithubsoni/100daysofcode/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/mohgithubsoni/100daysofcode/tree/master/0091-decode-ways) |
 | [0214-shortest-palindrome](https://github.com/mohgithubsoni/100daysofcode/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/mohgithubsoni/100daysofcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
@@ -130,6 +131,7 @@ By completing this challenge, I aim to:
 | [0053-maximum-subarray](https://github.com/mohgithubsoni/100daysofcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mohgithubsoni/100daysofcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mohgithubsoni/100daysofcode/tree/master/0062-unique-paths) |
+| [0091-decode-ways](https://github.com/mohgithubsoni/100daysofcode/tree/master/0091-decode-ways) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mohgithubsoni/100daysofcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Linked List
 |  |
