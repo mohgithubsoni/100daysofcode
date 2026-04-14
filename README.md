@@ -212,6 +212,7 @@ By completing this challenge, I aim to:
 | [0066-plus-one](https://github.com/mohgithubsoni/100daysofcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0090-subsets-ii) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0503-next-greater-element-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mohgithubsoni/100daysofcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -285,6 +286,7 @@ By completing this challenge, I aim to:
 | [0040-combination-sum-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mohgithubsoni/100daysofcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0047-permutations-ii) |
+| [0090-subsets-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0090-subsets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -341,4 +343,8 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
