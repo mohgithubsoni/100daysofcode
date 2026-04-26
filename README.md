@@ -175,6 +175,7 @@ By completing this challenge, I aim to:
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mohgithubsoni/100daysofcode/tree/master/0199-binary-tree-right-side-view) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -220,6 +221,7 @@ By completing this challenge, I aim to:
 | [0090-subsets-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0090-subsets-ii) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0503-next-greater-element-ii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mohgithubsoni/100daysofcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mohgithubsoni/100daysofcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -255,6 +257,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/mohgithubsoni/100daysofcode/tree/master/0199-binary-tree-right-side-view) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Math
 |  |
 | ------- |
@@ -339,6 +342,7 @@ By completing this challenge, I aim to:
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0074-search-a-2d-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mohgithubsoni/100daysofcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mohgithubsoni/100daysofcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Combinatorics
@@ -353,4 +357,8 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0090-subsets-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
