@@ -117,6 +117,7 @@ By completing this challenge, I aim to:
 | [0038-count-and-say](https://github.com/mohgithubsoni/100daysofcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/mohgithubsoni/100daysofcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/mohgithubsoni/100daysofcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/mohgithubsoni/100daysofcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/mohgithubsoni/100daysofcode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/mohgithubsoni/100daysofcode/tree/master/0091-decode-ways) |
 | [0214-shortest-palindrome](https://github.com/mohgithubsoni/100daysofcode/tree/master/0214-shortest-palindrome) |
@@ -268,6 +269,7 @@ By completing this challenge, I aim to:
 | [0013-roman-to-integer](https://github.com/mohgithubsoni/100daysofcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/mohgithubsoni/100daysofcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mohgithubsoni/100daysofcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mohgithubsoni/100daysofcode/tree/master/0067-add-binary) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Monotonic Stack
 |  |
@@ -357,9 +359,11 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/mohgithubsoni/100daysofcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mohgithubsoni/100daysofcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0090-subsets-ii) |
 ## Union-Find
 |  |
