@@ -156,6 +156,7 @@ By completing this challenge, I aim to:
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mohgithubsoni/100daysofcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/mohgithubsoni/100daysofcode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohgithubsoni/100daysofcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/mohgithubsoni/100daysofcode/tree/master/0155-min-stack) |
@@ -167,12 +168,14 @@ By completing this challenge, I aim to:
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohgithubsoni/100daysofcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mohgithubsoni/100daysofcode/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohgithubsoni/100daysofcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mohgithubsoni/100daysofcode/tree/master/0199-binary-tree-right-side-view) |
@@ -180,6 +183,7 @@ By completing this challenge, I aim to:
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mohgithubsoni/100daysofcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mohgithubsoni/100daysofcode/tree/master/0199-binary-tree-right-side-view) |
