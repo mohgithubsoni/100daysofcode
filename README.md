@@ -224,6 +224,7 @@ By completing this challenge, I aim to:
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0090-subsets-ii) |
+| [0238-product-of-array-except-self](https://github.com/mohgithubsoni/100daysofcode/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0503-next-greater-element-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -373,4 +374,8 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/1559-detect-cycles-in-2d-grid) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/mohgithubsoni/100daysofcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
