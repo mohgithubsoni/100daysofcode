@@ -222,6 +222,7 @@ By completing this challenge, I aim to:
 | [0054-spiral-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mohgithubsoni/100daysofcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mohgithubsoni/100daysofcode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/mohgithubsoni/100daysofcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -356,6 +357,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0074-search-a-2d-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -369,6 +371,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/mohgithubsoni/100daysofcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
