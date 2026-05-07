@@ -148,6 +148,7 @@ By completing this challenge, I aim to:
 | [0141-linked-list-cycle](https://github.com/mohgithubsoni/100daysofcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0876-middle-of-the-linked-list) |
@@ -193,6 +194,7 @@ By completing this challenge, I aim to:
 | [0002-add-two-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohgithubsoni/100daysofcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
