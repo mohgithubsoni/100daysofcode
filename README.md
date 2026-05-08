@@ -281,6 +281,7 @@ By completing this challenge, I aim to:
 | [0066-plus-one](https://github.com/mohgithubsoni/100daysofcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mohgithubsoni/100daysofcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mohgithubsoni/100daysofcode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/mohgithubsoni/100daysofcode/tree/master/0089-gray-code) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Monotonic Stack
 |  |
@@ -311,6 +312,7 @@ By completing this challenge, I aim to:
 | [0040-combination-sum-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mohgithubsoni/100daysofcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/mohgithubsoni/100daysofcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0090-subsets-ii) |
 ## Greedy
 |  |
@@ -379,6 +381,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mohgithubsoni/100daysofcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/mohgithubsoni/100daysofcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0090-subsets-ii) |
 ## Union-Find
 |  |
