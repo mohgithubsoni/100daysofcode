@@ -120,6 +120,7 @@ By completing this challenge, I aim to:
 | [0065-valid-number](https://github.com/mohgithubsoni/100daysofcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/mohgithubsoni/100daysofcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/mohgithubsoni/100daysofcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/mohgithubsoni/100daysofcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/mohgithubsoni/100daysofcode/tree/master/0091-decode-ways) |
 | [0214-shortest-palindrome](https://github.com/mohgithubsoni/100daysofcode/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/mohgithubsoni/100daysofcode/tree/master/0316-remove-duplicate-letters) |
@@ -178,6 +179,7 @@ By completing this challenge, I aim to:
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mohgithubsoni/100daysofcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohgithubsoni/100daysofcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -226,6 +228,7 @@ By completing this challenge, I aim to:
 | [0059-spiral-matrix-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/mohgithubsoni/100daysofcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/mohgithubsoni/100daysofcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0088-merge-sorted-array) |
@@ -313,6 +316,7 @@ By completing this challenge, I aim to:
 | [0040-combination-sum-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mohgithubsoni/100daysofcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/mohgithubsoni/100daysofcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/mohgithubsoni/100daysofcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0090-subsets-ii) |
 ## Greedy
@@ -364,6 +368,7 @@ By completing this challenge, I aim to:
 | [0054-spiral-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/mohgithubsoni/100daysofcode/tree/master/0079-word-search) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mohgithubsoni/100daysofcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
