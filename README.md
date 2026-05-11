@@ -231,6 +231,7 @@ By completing this challenge, I aim to:
 | [0059-spiral-matrix-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/mohgithubsoni/100daysofcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/mohgithubsoni/100daysofcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mohgithubsoni/100daysofcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -320,6 +321,7 @@ By completing this challenge, I aim to:
 | [0040-combination-sum-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mohgithubsoni/100daysofcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/mohgithubsoni/100daysofcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mohgithubsoni/100daysofcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/mohgithubsoni/100daysofcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0090-subsets-ii) |
@@ -392,6 +394,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mohgithubsoni/100daysofcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/mohgithubsoni/100daysofcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/mohgithubsoni/100daysofcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0090-subsets-ii) |
 ## Union-Find
