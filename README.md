@@ -139,6 +139,7 @@ By completing this challenge, I aim to:
 | [0053-maximum-subarray](https://github.com/mohgithubsoni/100daysofcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mohgithubsoni/100daysofcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/mohgithubsoni/100daysofcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/mohgithubsoni/100daysofcode/tree/master/0091-decode-ways) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mohgithubsoni/100daysofcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Linked List
@@ -231,6 +232,7 @@ By completing this challenge, I aim to:
 | [0055-jump-game](https://github.com/mohgithubsoni/100daysofcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mohgithubsoni/100daysofcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/mohgithubsoni/100daysofcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mohgithubsoni/100daysofcode/tree/master/0075-sort-colors) |
@@ -384,6 +386,7 @@ By completing this challenge, I aim to:
 | [0036-valid-sudoku](https://github.com/mohgithubsoni/100daysofcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/mohgithubsoni/100daysofcode/tree/master/0079-word-search) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/1559-detect-cycles-in-2d-grid) |
