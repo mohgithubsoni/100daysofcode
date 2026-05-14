@@ -178,6 +178,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohgithubsoni/100daysofcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/mohgithubsoni/100daysofcode/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mohgithubsoni/100daysofcode/tree/master/0199-binary-tree-right-side-view) |
@@ -186,6 +187,7 @@ By completing this challenge, I aim to:
 | ------- |
 | [0079-word-search](https://github.com/mohgithubsoni/100daysofcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohgithubsoni/100daysofcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/mohgithubsoni/100daysofcode/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mohgithubsoni/100daysofcode/tree/master/0199-binary-tree-right-side-view) |
@@ -194,6 +196,7 @@ By completing this challenge, I aim to:
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohgithubsoni/100daysofcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/mohgithubsoni/100daysofcode/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mohgithubsoni/100daysofcode/tree/master/0199-binary-tree-right-side-view) |
@@ -284,6 +287,7 @@ By completing this challenge, I aim to:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mohgithubsoni/100daysofcode/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mohgithubsoni/100daysofcode/tree/master/0199-binary-tree-right-side-view) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Math
