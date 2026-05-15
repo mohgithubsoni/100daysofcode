@@ -245,6 +245,7 @@ By completing this challenge, I aim to:
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0090-subsets-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/mohgithubsoni/100daysofcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/mohgithubsoni/100daysofcode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/mohgithubsoni/100daysofcode/tree/master/0238-product-of-array-except-self) |
@@ -320,6 +321,7 @@ By completing this challenge, I aim to:
 | [0069-sqrtx](https://github.com/mohgithubsoni/100daysofcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/mohgithubsoni/100daysofcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Design
 |  |
 | ------- |
