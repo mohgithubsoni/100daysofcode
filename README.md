@@ -191,6 +191,7 @@ By completing this challenge, I aim to:
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohgithubsoni/100daysofcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mohgithubsoni/100daysofcode/tree/master/0199-binary-tree-right-side-view) |
+| [1306-jump-game-iii](https://github.com/mohgithubsoni/100daysofcode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
@@ -252,6 +253,7 @@ By completing this challenge, I aim to:
 | [0238-product-of-array-except-self](https://github.com/mohgithubsoni/100daysofcode/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0503-next-greater-element-ii) |
+| [1306-jump-game-iii](https://github.com/mohgithubsoni/100daysofcode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mohgithubsoni/100daysofcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -291,6 +293,7 @@ By completing this challenge, I aim to:
 | ------- |
 | [0100-same-tree](https://github.com/mohgithubsoni/100daysofcode/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mohgithubsoni/100daysofcode/tree/master/0199-binary-tree-right-side-view) |
+| [1306-jump-game-iii](https://github.com/mohgithubsoni/100daysofcode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Math
 |  |
