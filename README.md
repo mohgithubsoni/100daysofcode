@@ -248,6 +248,7 @@ By completing this challenge, I aim to:
 | [0090-subsets-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/mohgithubsoni/100daysofcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/mohgithubsoni/100daysofcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/mohgithubsoni/100daysofcode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/mohgithubsoni/100daysofcode/tree/master/0238-product-of-array-except-self) |
@@ -327,6 +328,7 @@ By completing this challenge, I aim to:
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/mohgithubsoni/100daysofcode/tree/master/0162-find-peak-element) |
 ## Design
 |  |
 | ------- |
