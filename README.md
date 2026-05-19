@@ -103,6 +103,7 @@ By completing this challenge, I aim to:
 | [0148-sort-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mohgithubsoni/100daysofcode/tree/master/0876-middle-of-the-linked-list) |
+| [2540-minimum-common-value](https://github.com/mohgithubsoni/100daysofcode/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mohgithubsoni/100daysofcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -257,6 +258,7 @@ By completing this challenge, I aim to:
 | [1306-jump-game-iii](https://github.com/mohgithubsoni/100daysofcode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2540-minimum-common-value](https://github.com/mohgithubsoni/100daysofcode/tree/master/2540-minimum-common-value) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mohgithubsoni/100daysofcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mohgithubsoni/100daysofcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -271,6 +273,7 @@ By completing this challenge, I aim to:
 | [0141-linked-list-cycle](https://github.com/mohgithubsoni/100daysofcode/tree/master/0141-linked-list-cycle) |
 | [0451-sort-characters-by-frequency](https://github.com/mohgithubsoni/100daysofcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
+| [2540-minimum-common-value](https://github.com/mohgithubsoni/100daysofcode/tree/master/2540-minimum-common-value) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Rolling Hash
 |  |
@@ -329,6 +332,7 @@ By completing this challenge, I aim to:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohgithubsoni/100daysofcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mohgithubsoni/100daysofcode/tree/master/0162-find-peak-element) |
+| [2540-minimum-common-value](https://github.com/mohgithubsoni/100daysofcode/tree/master/2540-minimum-common-value) |
 ## Design
 |  |
 | ------- |
