@@ -130,6 +130,7 @@ By completing this challenge, I aim to:
 | [0316-remove-duplicate-letters](https://github.com/mohgithubsoni/100daysofcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/mohgithubsoni/100daysofcode/tree/master/0451-sort-characters-by-frequency) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -255,6 +256,7 @@ By completing this challenge, I aim to:
 | [0238-product-of-array-except-self](https://github.com/mohgithubsoni/100daysofcode/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/mohgithubsoni/100daysofcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0503-next-greater-element-ii) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1306-jump-game-iii](https://github.com/mohgithubsoni/100daysofcode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mohgithubsoni/100daysofcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -358,6 +360,7 @@ By completing this challenge, I aim to:
 | [0179-largest-number](https://github.com/mohgithubsoni/100daysofcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/mohgithubsoni/100daysofcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/mohgithubsoni/100daysofcode/tree/master/0402-remove-k-digits) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/mohgithubsoni/100daysofcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
